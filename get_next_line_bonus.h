@@ -5,15 +5,15 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: antoda-s <antoda-s@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/12/06 11:59:20 by slynn-ev          #+#    #+#             */
-/*   Updated: 2023/03/04 15:15:54 by antoda-s         ###   ########.fr       */
+/*   Created: 2023/03/05 00:52:19 by antoda-s          #+#    #+#             */
+/*   Updated: 2023/03/06 15:52:09 by antoda-s         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_BONUS_H
 # define GET_NEXT_LINE_BONUS_H
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 10
+#  define BUFFER_SIZE 100000000
 # endif
 
 # include <unistd.h>
